@@ -61,7 +61,7 @@ ESPN is more likely to have come from Whitman
 ## Results Rationale
 
 For our examples we included works of Shakespeare and Whitman because they both represented two distinct albeit fundamental styles of prose, diction, and writing styles that have majorly influenced modern literature and modern English writing.
-We can see that the program worked as described because because Whitman’s diction and prose is presumed to be more modern than Shakespeare’s writing and language, and is reflected as so in the comparisons.
+We can see that the program worked as described because Whitman’s diction and prose is presumed to be more modern than Shakespeare’s writing and language, and is reflected as so in the comparisons.
 The articles that we chose to compare against these two old bodies of text are modern scientific articles or news entries, and therefore are more similar to the more modern style of writing that Whitman employs, as opposed to Shakespeare. 
 
 ## Ideas for Improvements
