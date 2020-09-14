@@ -82,5 +82,4 @@ Please make sure to update tests as appropriate.
 ## Authors and acknowledgment
 
 Ben Badnani, <bbadnani@bu.edu>
-
 Brad Schulman, <brad217@bu.edu>
