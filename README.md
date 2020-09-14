@@ -8,7 +8,7 @@ A text classification program that highlights which of the two inputted source t
 
 The original idea behind this text model analyzer, proposed as our CS111 final project, was to uncover the identity of authors who would employ pseudonames for some fo their litearry works.
 Ideally, this text classificaiton program would work best given two literary sources suspected as being one of the authors for the third work, for which the program would be able to discern which source text more closely resemebled the one in question.
-Given that the implicated literary elements used as the given parameters are indication of closeness in writing style, this program accurately works as anticipated.
+Given that the implicated literary elements used as the given parameters are any indication of the closeness in writing style, this program accurately works as anticipated.
 
 ## Usage
 
