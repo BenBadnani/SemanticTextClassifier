@@ -66,10 +66,20 @@ The articles that we chose to compare against these two old bodies of text are m
 
 # Ideas for Improvements
 
-I think the algorithm could be improved by adding feature dictionaries that would incorporate more literary element comparisons from the texts. Additionally, if we had implemented a weighted sum comparison function as opposed to the counter one we implemented, it would represent a more accurate score based on which dictionaries we weighted more heavily. Lastly, a Markov text dictionary could be implemented to see how similar the sequence of words are in a chronological sense for the words shared by the texts. This would allow us to see which author would use the same words in a similar context more so than the other, and serve as a very good indicator of how similar the mystery text could be to one of the source texts. 
+The algorithm could be improved by adding feature dictionaries that would incorporate more literary element comparisons from the texts. 
+
+Following, implementing a weighted sum comparison function as opposed to the counter one we implemented  would represent a more accurate score based on which dictionaries were weighted more heavily. 
+
+Lastly, a Markov text dictionary could be implemented to see how similar the sequence of words are in a chronological sense for the words shared by the texts. This would allow us to see which author would use the same words in a similar context more so than the other, and serve as a very good indicator of how similar the mystery text could be to one of the source texts. 
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 
-## Contributors
+## Authors and acknowledgment
 
 Ben Badnani, <bbadnani@bu.edu>
 Brad Schulman, <brad217@bu.edu>
