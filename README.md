@@ -72,13 +72,6 @@ Following, implementing a weighted sum comparison function as opposed to the cou
 
 Lastly, a Markov text dictionary could be implemented to see how similar the sequence of words are in a chronological sense for the words shared by the texts. This would allow us to see which author would use the same words in a similar context more so than the other, and serve as a very good indicator of how similar the mystery text could be to one of the source texts. 
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
 ## Authors and acknowledgment
 
 Ben Badnani, <bbadnani@bu.edu>
